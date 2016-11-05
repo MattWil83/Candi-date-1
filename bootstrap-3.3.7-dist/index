@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Candi-Date</title>
+
+<link href="can css.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1 style="position: relative; align-content: center; text-align: center; height: 147px; background-color: royalblue; width: 61%">Candi-Date</h1>
+<h2 style="position: relative; center: 50%; text-align: center">A Tinder Inspired Politician Database</h2>
+</body>
+</html>
